@@ -10,10 +10,7 @@
       "s": "MUN:0B2"
     },
     {
-      "s": "MUN:0FD"
-    },
-    {
-      "s": "MUN:0KN"
+      "s": "MUN:0GY"
     },
     {
       "s": "MUN:0L5"
@@ -31,9 +28,6 @@
       "s": "MUN:0QF"
     },
     {
-      "s": "MUN:0VD"
-    },
-    {
       "s": "MUN:0VV"
     },
     {
@@ -41,9 +35,6 @@
     },
     {
       "s": "MUN:0WP"
-    },
-    {
-      "s": "MUN:0YT"
     },
     {
       "s": "MUN:0ZC"
@@ -70,9 +61,6 @@
       "s": "MUN:185"
     },
     {
-      "s": "MUN:1BF"
-    },
-    {
       "s": "MUN:1COV"
     },
     {
@@ -80,9 +68,6 @@
     },
     {
       "s": "MUN:1JD"
-    },
-    {
-      "s": "MUN:1KG"
     },
     {
       "s": "MUN:1LNB"
@@ -109,6 +94,9 @@
       "s": "MUN:1RY"
     },
     {
+      "s": "MUN:1S4"
+    },
+    {
       "s": "MUN:1SI"
     },
     {
@@ -124,7 +112,10 @@
       "s": "MUN:1YD"
     },
     {
-      "s": "MUN:21T"
+      "s": "MUN:21L"
+    },
+    {
+      "s": "MUN:22P"
     },
     {
       "s": "MUN:22T"
@@ -184,6 +175,9 @@
       "s": "MUN:3AD2"
     },
     {
+      "s": "MUN:3AJ"
+    },
+    {
       "s": "MUN:3D6"
     },
     {
@@ -197,9 +191,6 @@
     },
     {
       "s": "MUN:3ITN"
-    },
-    {
-      "s": "MUN:3PY3"
     },
     {
       "s": "MUN:3QD"
@@ -218,6 +209,9 @@
     },
     {
       "s": "MUN:3V64"
+    },
+    {
+      "s": "MUN:3WC"
     },
     {
       "s": "MUN:3X6"
@@ -262,9 +256,6 @@
       "s": "MUN:4TS"
     },
     {
-      "s": "MUN:53L"
-    },
-    {
       "s": "MUN:56S1"
     },
     {
@@ -283,9 +274,6 @@
       "s": "MUN:5F6"
     },
     {
-      "s": "MUN:5K7"
-    },
-    {
       "s": "MUN:5Q5"
     },
     {
@@ -293,6 +281,9 @@
     },
     {
       "s": "MUN:5ZM"
+    },
+    {
+      "s": "MUN:62M"
     },
     {
       "s": "MUN:639"
@@ -320,6 +311,9 @@
     },
     {
       "s": "MUN:6OJ"
+    },
+    {
+      "s": "MUN:6P4"
     },
     {
       "s": "MUN:6X5"
@@ -373,13 +367,10 @@
       "s": "MUN:85S"
     },
     {
-      "s": "MUN:88L"
-    },
-    {
       "s": "MUN:88Q"
     },
     {
-      "s": "MUN:8D7"
+      "s": "MUN:8DA1"
     },
     {
       "s": "MUN:8G8"
@@ -400,16 +391,25 @@
       "s": "MUN:93M1"
     },
     {
+      "s": "MUN:9BA"
+    },
+    {
       "s": "MUN:9BFA"
     },
     {
       "s": "MUN:9GR"
     },
     {
+      "s": "MUN:9JD"
+    },
+    {
       "s": "MUN:9MW"
     },
     {
       "s": "MUN:9VC"
+    },
+    {
+      "s": "MUN:9YG"
     },
     {
       "s": "MUN:9YM"
@@ -440,9 +440,6 @@
     },
     {
       "s": "MUN:AAQ1"
-    },
-    {
-      "s": "MUN:AB4"
     },
     {
       "s": "MUN:AB9"
@@ -646,10 +643,10 @@
       "s": "MUN:ASI1"
     },
     {
-      "s": "MUN:ASME"
+      "s": "MUN:ASJA"
     },
     {
-      "s": "MUN:ASX"
+      "s": "MUN:ASME"
     },
     {
       "s": "MUN:AT1"
@@ -721,6 +718,9 @@
       "s": "MUN:BEI"
     },
     {
+      "s": "MUN:BEW"
+    },
+    {
       "s": "MUN:BEZ"
     },
     {
@@ -763,9 +763,6 @@
       "s": "MUN:BKHT"
     },
     {
-      "s": "MUN:BKN"
-    },
-    {
       "s": "MUN:BLQA"
     },
     {
@@ -788,6 +785,9 @@
     },
     {
       "s": "MUN:BNR"
+    },
+    {
+      "s": "MUN:BO8"
     },
     {
       "s": "MUN:BOG"
@@ -868,7 +868,7 @@
       "s": "MUN:C43"
     },
     {
-      "s": "MUN:C61"
+      "s": "MUN:C4F"
     },
     {
       "s": "MUN:C6G"
@@ -877,10 +877,16 @@
       "s": "MUN:CA1"
     },
     {
+      "s": "MUN:CAO"
+    },
+    {
       "s": "MUN:CAR"
     },
     {
       "s": "MUN:CAT1"
+    },
+    {
+      "s": "MUN:CB1A"
     },
     {
       "s": "MUN:CBHD"
@@ -913,9 +919,6 @@
       "s": "MUN:CEK"
     },
     {
-      "s": "MUN:CENB"
-    },
-    {
       "s": "MUN:CFC"
     },
     {
@@ -941,6 +944,9 @@
     },
     {
       "s": "MUN:CLIQ"
+    },
+    {
+      "s": "MUN:CM2"
     },
     {
       "s": "MUN:CMC"
@@ -979,9 +985,6 @@
       "s": "MUN:CSA"
     },
     {
-      "s": "MUN:CSC"
-    },
-    {
       "s": "MUN:CSH"
     },
     {
@@ -1001,6 +1004,9 @@
     },
     {
       "s": "MUN:CWC"
+    },
+    {
+      "s": "MUN:CXR"
     },
     {
       "s": "MUN:CXX"
@@ -1025,9 +1031,6 @@
     },
     {
       "s": "MUN:D7C"
-    },
-    {
-      "s": "MUN:D9W"
     },
     {
       "s": "MUN:DAM"
@@ -1099,9 +1102,6 @@
       "s": "MUN:DLX"
     },
     {
-      "s": "MUN:DMB"
-    },
-    {
       "s": "MUN:DMP"
     },
     {
@@ -1121,9 +1121,6 @@
     },
     {
       "s": "MUN:DR0"
-    },
-    {
-      "s": "MUN:DR3"
     },
     {
       "s": "MUN:DRW3"
@@ -1174,9 +1171,6 @@
       "s": "MUN:E4I"
     },
     {
-      "s": "MUN:E6Z"
-    },
-    {
       "s": "MUN:E8X"
     },
     {
@@ -1190,9 +1184,6 @@
     },
     {
       "s": "MUN:EB2"
-    },
-    {
-      "s": "MUN:EB9"
     },
     {
       "s": "MUN:EBA"
@@ -1225,16 +1216,10 @@
       "s": "MUN:EFF"
     },
     {
-      "s": "MUN:EFIT"
-    },
-    {
       "s": "MUN:EIA"
     },
     {
       "s": "MUN:EIN"
-    },
-    {
-      "s": "MUN:EIX"
     },
     {
       "s": "MUN:EJT1"
@@ -1309,9 +1294,6 @@
       "s": "MUN:ESL"
     },
     {
-      "s": "MUN:ET7"
-    },
-    {
       "s": "MUN:ETG"
     },
     {
@@ -1343,9 +1325,6 @@
     },
     {
       "s": "MUN:F3C"
-    },
-    {
-      "s": "MUN:FA9"
     },
     {
       "s": "MUN:FAA"
@@ -1436,9 +1415,6 @@
     },
     {
       "s": "MUN:FTK"
-    },
-    {
-      "s": "MUN:FU7"
     },
     {
       "s": "MUN:FWG"
@@ -1588,6 +1564,9 @@
       "s": "MUN:HAY"
     },
     {
+      "s": "MUN:HB1"
+    },
+    {
       "s": "MUN:HBC1"
     },
     {
@@ -1622,9 +1601,6 @@
     },
     {
       "s": "MUN:HHFA"
-    },
-    {
-      "s": "MUN:HHHA"
     },
     {
       "s": "MUN:HIGH"
@@ -1699,9 +1675,6 @@
       "s": "MUN:HYQ"
     },
     {
-      "s": "MUN:I8MA"
-    },
-    {
       "s": "MUN:I8U"
     },
     {
@@ -1747,9 +1720,6 @@
       "s": "MUN:ILU"
     },
     {
-      "s": "MUN:IMV"
-    },
-    {
       "s": "MUN:INH"
     },
     {
@@ -1790,9 +1760,6 @@
     },
     {
       "s": "MUN:ITU"
-    },
-    {
-      "s": "MUN:IUE"
     },
     {
       "s": "MUN:IUI1"
@@ -1960,10 +1927,13 @@
       "s": "MUN:LAR"
     },
     {
-      "s": "MUN:LCO"
+      "s": "MUN:LAR0"
     },
     {
-      "s": "MUN:LCQ"
+      "s": "MUN:LCM"
+    },
+    {
+      "s": "MUN:LCO"
     },
     {
       "s": "MUN:LDF"
@@ -1976,9 +1946,6 @@
     },
     {
       "s": "MUN:LEN"
-    },
-    {
-      "s": "MUN:LFPB"
     },
     {
       "s": "MUN:LH1"
@@ -2023,22 +1990,19 @@
       "s": "MUN:LQAG"
     },
     {
-      "s": "MUN:LR6"
-    },
-    {
       "s": "MUN:LRND"
     },
     {
       "s": "MUN:LSX"
     },
     {
-      "s": "MUN:LTG"
-    },
-    {
       "s": "MUN:LTX"
     },
     {
       "s": "MUN:LUS1"
+    },
+    {
+      "s": "MUN:LV2B"
     },
     {
       "s": "MUN:LWE"
@@ -2101,12 +2065,6 @@
       "s": "MUN:MBQ"
     },
     {
-      "s": "MUN:MCX"
-    },
-    {
-      "s": "MUN:MCX0"
-    },
-    {
       "s": "MUN:MDD"
     },
     {
@@ -2128,6 +2086,9 @@
       "s": "MUN:MED"
     },
     {
+      "s": "MUN:MEF"
+    },
+    {
       "s": "MUN:MGJ"
     },
     {
@@ -2141,6 +2102,9 @@
     },
     {
       "s": "MUN:MLB1"
+    },
+    {
+      "s": "MUN:MLI"
     },
     {
       "s": "MUN:MLL"
@@ -2164,9 +2128,6 @@
       "s": "MUN:MRK"
     },
     {
-      "s": "MUN:MRS"
-    },
-    {
       "s": "MUN:MRX"
     },
     {
@@ -2176,13 +2137,13 @@
       "s": "MUN:MS5"
     },
     {
+      "s": "MUN:MS51"
+    },
+    {
       "s": "MUN:MSAG"
     },
     {
       "s": "MUN:MSF"
-    },
-    {
-      "s": "MUN:MSN"
     },
     {
       "s": "MUN:MTE"
@@ -2195,6 +2156,9 @@
     },
     {
       "s": "MUN:MUM"
+    },
+    {
+      "s": "MUN:MUQ"
     },
     {
       "s": "MUN:MUV2"
@@ -2308,12 +2272,6 @@
       "s": "MUN:NP5"
     },
     {
-      "s": "MUN:NPW1"
-    },
-    {
-      "s": "MUN:NTA"
-    },
-    {
       "s": "MUN:NTG"
     },
     {
@@ -2369,12 +2327,6 @@
     },
     {
       "s": "MUN:OBS"
-    },
-    {
-      "s": "MUN:OCZA"
-    },
-    {
-      "s": "MUN:OD8"
     },
     {
       "s": "MUN:OEWA"
@@ -2485,9 +2437,6 @@
       "s": "MUN:PGN"
     },
     {
-      "s": "MUN:PGV"
-    },
-    {
       "s": "MUN:PHI1"
     },
     {
@@ -2506,6 +2455,9 @@
       "s": "MUN:PNE3"
     },
     {
+      "s": "MUN:PNP"
+    },
+    {
       "s": "MUN:PNT"
     },
     {
@@ -2516,6 +2468,9 @@
     },
     {
       "s": "MUN:PPX"
+    },
+    {
+      "s": "MUN:PQ51"
     },
     {
       "s": "MUN:PRG"
@@ -2531,6 +2486,9 @@
     },
     {
       "s": "MUN:PSM"
+    },
+    {
+      "s": "MUN:PTP"
     },
     {
       "s": "MUN:PTX"
@@ -2563,7 +2521,7 @@
       "s": "MUN:QCI"
     },
     {
-      "s": "MUN:QDI"
+      "s": "MUN:QFI"
     },
     {
       "s": "MUN:QH9"
@@ -2620,9 +2578,6 @@
       "s": "MUN:REW"
     },
     {
-      "s": "MUN:RG3"
-    },
-    {
       "s": "MUN:RHK"
     },
     {
@@ -2650,10 +2605,10 @@
       "s": "MUN:ROP"
     },
     {
-      "s": "MUN:RPL"
+      "s": "MUN:RP8"
     },
     {
-      "s": "MUN:RPU"
+      "s": "MUN:RPL"
     },
     {
       "s": "MUN:RRTL"
@@ -2689,7 +2644,7 @@
       "s": "MUN:RYSD"
     },
     {
-      "s": "MUN:S4AA"
+      "s": "MUN:S188"
     },
     {
       "s": "MUN:S6P"
@@ -2734,9 +2689,6 @@
       "s": "MUN:SDRC"
     },
     {
-      "s": "MUN:SDV1"
-    },
-    {
       "s": "MUN:SEJ1"
     },
     {
@@ -2773,7 +2725,7 @@
       "s": "MUN:SGS5"
     },
     {
-      "s": "MUN:SHA"
+      "s": "MUN:SHA0"
     },
     {
       "s": "MUN:SHD"
@@ -2858,6 +2810,9 @@
     },
     {
       "s": "MUN:SOU"
+    },
+    {
+      "s": "MUN:SPG"
     },
     {
       "s": "MUN:SPH1"
@@ -3019,9 +2974,6 @@
       "s": "MUN:TM5"
     },
     {
-      "s": "MUN:TMJ"
-    },
-    {
       "s": "MUN:TMV"
     },
     {
@@ -3070,13 +3022,7 @@
       "s": "MUN:TTR1"
     },
     {
-      "s": "MUN:TU0"
-    },
-    {
       "s": "MUN:TUI1"
-    },
-    {
-      "s": "MUN:TWL"
     },
     {
       "s": "MUN:TWW"
@@ -3190,9 +3136,6 @@
       "s": "MUN:VEE"
     },
     {
-      "s": "MUN:VEW"
-    },
-    {
       "s": "MUN:VEZ"
     },
     {
@@ -3274,6 +3217,9 @@
       "s": "MUN:WAH"
     },
     {
+      "s": "MUN:WC3"
+    },
+    {
       "s": "MUN:WCH"
     },
     {
@@ -3326,9 +3272,6 @@
     },
     {
       "s": "MUN:WW1"
-    },
-    {
-      "s": "MUN:X9P"
     },
     {
       "s": "MUN:XCA"
